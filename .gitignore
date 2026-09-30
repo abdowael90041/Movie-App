@@ -1,0 +1,19 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android generated
+android/.kotlin/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Local secrets
+env.dart
